@@ -122,5 +122,29 @@
 	- Ora: 22:00
 	- Durata: 1:36h
 ### Vineri:
-
+- Titlu: The Circle
+	- [LetterBoxd(N/A)]()
+	- Locatie: [Cercul Militar](https://maps.app.goo.gl/FHbYAbpTap8CQ2Fn6)
+	- Ora: 18:15
+	- Durata: 1:52h
 ### Sambata:
+- Titlu: Scurtmetraje I
+	- [LetterBoxd(N/A)]()
+	- Locatie: [Universitatea Sapientia](https://maps.app.goo.gl/SRESmijHP3SSfmq26)
+	- Ora: 10:45
+	- Durata: N/A
+- Titlu: Jurnalul unei cameriste
+	- [LetterBoxd(3.6)](https://letterboxd.com/film/the-diary-of-a-chambermaid-2026/)
+	- Locatie: [Cinema Florin Piersic](https://maps.app.goo.gl/WVkvNJahssSeMKaY7)
+	- Ora: 13:30
+	- Durata: 1:34h
+- Titlu: Scurtmetraje III
+	- [LetterBoxd(N/A)]()
+	- Locatie: [Universitatea Sapientia](https://maps.app.goo.gl/SRESmijHP3SSfmq26)
+	- Ora: 16:45
+	- Durata: N/A
+- Titlu: Blindsight
+	- [LetterBoxd(N/A)](https://letterboxd.com/film/blindsight/)
+	- Locatie: [ARTA Cinema](https://maps.app.goo.gl/s7KghqVyagC86ob49)
+	- Ora: 19:30
+	- Durata: 1:31h

@@ -73,16 +73,11 @@
 	- Locatie: [Cinema Dacia Manastur](https://maps.app.goo.gl/PySHpkS8VdazeoTQ9)
 	- Ora: 18:00
 	- Durata: 1:43h
-- Titlu: Queen at Sea
-	- [LetterBoxd(3.8)](https://letterboxd.com/film/queen-at-sea/)
-	- Locatie: [Cinema Dacia Manastur](https://maps.app.goo.gl/PySHpkS8VdazeoTQ9)
-	- Ora: 20:30
-	- Durata: 2:01h
-- Titlu: Sabado
-	- [LetterBoxd(3.5)](https://letterboxd.com/film/sabado/)
-	- Locatie: [ARTA Cinema](https://maps.app.goo.gl/s7KghqVyagC86ob49)
-	- Ora: 23:00
-	- Durata: 1:03h
+- Titlu: Two Mountains Weighing Down My Chest
+	- [LetterBoxd(3.5)](https://letterboxd.com/film/two-mountains-weighing-down-my-chest/)
+	- Locatie: [Muzeul de Arta](https://maps.app.goo.gl/jmKDoGN2TTGkPZrJ6)
+	- Ora: 21:30
+	- Durata: 1:25
 ### Marti:
 - Titlu: The discreet charm of the Burgeoisie
 	- [LetterBoxd(4.0)](https://letterboxd.com/film/the-discreet-charm-of-the-bourgeoisie/)
@@ -100,13 +95,18 @@
 	- Ora: 22:15
 	- Durata: 1:43h
 ### Miercuri:
-- Titlu: 
+- Titlu: Stars of little importance
+	- [LetterBoxd(3.4)](https://letterboxd.com/film/stars-of-little-importance/)
+	- Locatie: [Universitatea Sapientia](https://maps.app.goo.gl/SRESmijHP3SSfmq26)
+	- Ora: 14:45
+	- Durata: 1:24h
+- Titlu: Pepi Fandango
 	- [LetterBoxd(N/A)](https://letterboxd.com/film/pepi-fandango/)
 	- Locatie: [Cercul Militar](https://maps.app.goo.gl/FHbYAbpTap8CQ2Fn6)
 	- Ora: 18:15
 	- Durata: 1:20h
 - Titlu: The President's cake
-	- [LetterBoxd(N/A)]()
+	- [LetterBoxd(4.0)](https://letterboxd.com/film/the-presidents-cake/)
 	- Locatie: [Cinema Victoria](https://maps.app.goo.gl/hU6SLG5P76VM732J6)
 	- Ora: 20:00
 	- Durata: 1:45h
@@ -123,13 +123,11 @@
 	- Durata: 1:36h
 ### Vineri:
 - Titlu: The Circle
-	- [LetterBoxd(N/A)]()
 	- Locatie: [Cercul Militar](https://maps.app.goo.gl/FHbYAbpTap8CQ2Fn6)
 	- Ora: 18:15
 	- Durata: 1:52h
 ### Sambata:
 - Titlu: Scurtmetraje I
-	- [LetterBoxd(N/A)]()
 	- Locatie: [Universitatea Sapientia](https://maps.app.goo.gl/SRESmijHP3SSfmq26)
 	- Ora: 10:45
 	- Durata: N/A
@@ -139,7 +137,6 @@
 	- Ora: 13:30
 	- Durata: 1:34h
 - Titlu: Scurtmetraje III
-	- [LetterBoxd(N/A)]()
 	- Locatie: [Universitatea Sapientia](https://maps.app.goo.gl/SRESmijHP3SSfmq26)
 	- Ora: 16:45
 	- Durata: N/A

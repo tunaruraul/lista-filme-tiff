@@ -20,6 +20,7 @@
     [Piata Unirii Open Air](https://maps.app.goo.gl/31Pa6QAgEBLg9NYq9)
     [Iulius Park Open Air](https://maps.app.goo.gl/YPnaSBEQwzz8UfRZA)
     [Castelul Banffy Bontida](https://maps.app.goo.gl/dXtDfqpTH4XQ6koF6)
+    [Cinema Victoria](https://maps.app.goo.gl/hU6SLG5P76VM732J6)
 ```
 
 ## Programul pe zile:
@@ -88,7 +89,16 @@
 	- Locatie: [Casa Studentilor](https://maps.app.goo.gl/hqT6rK4nXxBFBdBb9)
 	- Ora: 16:00
 	- Durata: 1:41h
-
+- Titlu: Truly Naked
+	- [LetterBoxd(3.2)](https://letterboxd.com/film/truly-naked/)
+	- Locatie: [Cinema Victoria](https://maps.app.goo.gl/hU6SLG5P76VM732J6)
+	- Ora: 20:00
+	- Durata: 1:42h
+- Titlu: Father
+	- [LetterBoxd(3.5)](https://letterboxd.com/film/father-2025-1/)
+	- Locatie: [Universitatea Sapientia](https://maps.app.goo.gl/SRESmijHP3SSfmq26)
+	- Ora: 22:15
+	- Durata: 1:43h
 ### Miercuri:
 - Titlu: 
 	- [LetterBoxd(N/A)](https://letterboxd.com/film/pepi-fandango/)

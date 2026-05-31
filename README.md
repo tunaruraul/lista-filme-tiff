@@ -111,12 +111,16 @@
 	- Ora: 20:00
 	- Durata: 1:45h
 ### Joi:
-- Titlu: Jurnalul unei cameriste
-	- [LetterBoxd(N/A)](https://letterboxd.com/film/jurnalul-unei-cameriste/)
-	- Locatie: [Casa Studentilor](https://maps.app.goo.gl/hqT6rK4nXxBFBdBb9)
-	- Ora: 21:00
-	- Durata: 1:34h
-
+- Titlu: Sicko
+	- [LetterBoxd(3.3)](https://letterboxd.com/film/auru/)
+	- Locatie: [Cinema Victoria](https://maps.app.goo.gl/hU6SLG5P76VM732J6)
+	- Ora: 20:00
+	- Durata: 1:42h
+- Titlu: Of mud and blood
+	- [LetterBoxd(N/A)](https://letterboxd.com/film/of-mud-and-blood/)
+	- Locatie: [ARTA Cinema](https://maps.app.goo.gl/s7KghqVyagC86ob49)
+	- Ora: 22:00
+	- Durata: 1:36h
 ### Vineri:
 
 ### Sambata:

@@ -67,14 +67,42 @@
 	- Locatie: [Cercul Militar](https://maps.app.goo.gl/FHbYAbpTap8CQ2Fn6)
 	- Ora: 13:15
 	- Durata: 1:17h
-- Titlu:
-	- LetterBoxd(N/A)
-	- Locatie:
-	- Ora: 
-	- Durata:
+- Titlu: Species
+	- [LetterBoxd(N/A)](https://letterboxd.com/film/species-2026/)
+	- Locatie: [Cinema Dacia Manastur](https://maps.app.goo.gl/PySHpkS8VdazeoTQ9)
+	- Ora: 18:00
+	- Durata: 1:43h
+- Titlu: Queen at Sea
+	- [LetterBoxd(3.8)](https://letterboxd.com/film/queen-at-sea/)
+	- Locatie: [Cinema Dacia Manastur](https://maps.app.goo.gl/PySHpkS8VdazeoTQ9)
+	- Ora: 20:30
+	- Durata: 2:01h
+- Titlu: Sabado
+	- [LetterBoxd(3.5)](https://letterboxd.com/film/sabado/)
+	- Locatie: [ARTA Cinema](https://maps.app.goo.gl/s7KghqVyagC86ob49)
+	- Ora: 23:00
+	- Durata: 1:03h
 ### Marti:
 - Titlu: The discreet charm of the Burgeoisie
 	- [LetterBoxd(4.0)](https://letterboxd.com/film/the-discreet-charm-of-the-bourgeoisie/)
 	- Locatie: [Casa Studentilor](https://maps.app.goo.gl/hqT6rK4nXxBFBdBb9)
 	- Ora: 16:00
 	- Durata: 1:41h
+
+### Miercuri:
+- Titlu: 
+	- [LetterBoxd(N/A)](https://letterboxd.com/film/pepi-fandango/)
+	- Locatie: [Cercul Militar](https://maps.app.goo.gl/FHbYAbpTap8CQ2Fn6)
+	- Ora: 18:15
+	- Durata: 1:20h
+
+### Joi:
+- Titlu: Jurnalul unei cameriste
+	- [LetterBoxd(N/A)](https://letterboxd.com/film/jurnalul-unei-cameriste/)
+	- Locatie: [Casa Studentilor](https://maps.app.goo.gl/hqT6rK4nXxBFBdBb9)
+	- Ora: 21:00
+	- Durata: 1:34h
+
+### Vineri:
+
+### Sambata:

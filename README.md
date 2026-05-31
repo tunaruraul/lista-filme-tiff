@@ -105,7 +105,11 @@
 	- Locatie: [Cercul Militar](https://maps.app.goo.gl/FHbYAbpTap8CQ2Fn6)
 	- Ora: 18:15
 	- Durata: 1:20h
-
+- Titlu: The President's cake
+	- [LetterBoxd(N/A)]()
+	- Locatie: [Cinema Victoria](https://maps.app.goo.gl/hU6SLG5P76VM732J6)
+	- Ora: 20:00
+	- Durata: 1:45h
 ### Joi:
 - Titlu: Jurnalul unei cameriste
 	- [LetterBoxd(N/A)](https://letterboxd.com/film/jurnalul-unei-cameriste/)

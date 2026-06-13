@@ -38,7 +38,7 @@
 	- Durata: 1:28h
 - Titlu: Love-22-Love
 	- [LetterBoxd(N/A)](https://letterboxd.com/film/love-22-love/)
-	- Locatie: [Cercul Militar](https://maps.app.goo.gl/FHbYAbpTap8CQ2Fn6)
+	- Locatie: [Muzeul de Arta](https://maps.app.goo.gl/jmKDoGN2TTGkPZrJ6)
 	- Ora: 21:30
 	- Durata: 1:24h
 ### Duminica:
